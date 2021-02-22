@@ -1,2 +1,5 @@
 # lamerhub
-lamerhub basit, güçlü saldırı ​​aracı
+###################################
+# Coded and updated by erseljoule #
+#  www.instagram.com/erseljoule   #
+################################### 
